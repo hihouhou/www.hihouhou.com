@@ -37,3 +37,4 @@ crowdforangels.com
 signarcade.fun  
 surgewell.today  
 implementcreative.fun  
+newsvelocity.email  
