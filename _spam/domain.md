@@ -75,3 +75,4 @@ town-booking.today
 appealpics.today  
 intuiworks.work  
 realwanderer.men  
+kineticday.today  
