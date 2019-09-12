@@ -79,3 +79,4 @@ kineticday.today
 arctic-premium.club  
 selfamplify.tech  
 futurevendor.store  
+point-ups.work  
