@@ -118,3 +118,4 @@ slivingverse.promo
 healtion.red  
 trulygame.red  
 skilladd.red  
+sale-institute.guru  
