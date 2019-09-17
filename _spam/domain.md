@@ -116,3 +116,4 @@ fundedu.red
 polar-pie.promo  
 slivingverse.promo  
 healtion.red  
+trulygame.red  
