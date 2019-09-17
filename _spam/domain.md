@@ -113,3 +113,11 @@ beowulfchain.com
 bots-robotics.promo  
 megaauthentic.promo  
 fundedu.red  
+polar-pie.promo  
+slivingverse.promo  
+healtion.red  
+trulygame.red  
+skilladd.red  
+sale-institute.guru  
+craft-of-sorts.red  
+damseldrop.red  
