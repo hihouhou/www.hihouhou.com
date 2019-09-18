@@ -122,3 +122,12 @@ sale-institute.guru
 craft-of-sorts.red  
 damseldrop.red  
 timetotravel.red  
+fastlearnvideo.tech  
+artschamp.guru  
+droid-bistro.tech  
+yumdoctor.guru  
+querycaptain.tech  
+a-qui-s.fr  
+mobi-zorro.tech  
+nerdnative.tech  
+xchng.io  
