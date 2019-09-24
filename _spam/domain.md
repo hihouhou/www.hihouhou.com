@@ -39,7 +39,6 @@ surgewell.today
 implementcreative.fun  
 newsvelocity.email  
 nerdscrowd.live  
-rueducommerce.com  
 dating-snug.date  
 seek-teams.today  
 greendesk.work  
@@ -48,14 +47,12 @@ managerialproperty.club
 describedwelling.world  
 munchyhub.club  
 estatecontract.today  
-info.interflora.fr  
 diet-bake.fun  
 fashionchicsmag.store  
 shmooze-city.city  
 truth-root.today  
 emotiontext.fun  
 stunning-wall.work  
-infos.orange.fr  
 socio-gift.fun  
 life-ardor.life  
 heattoys.fun  
@@ -65,7 +62,6 @@ ace-mascots.fun
 learngameskills.club  
 assuredman.men  
 coffeesane.store  
-coindar.org  
 contextbrand.store  
 prime-polaris.world  
 discussingworld.world  
@@ -87,7 +83,6 @@ approachlife.live
 weddingimpression.club  
 fully-happy.fun  
 menrush.men  
-gmail.com  
 actors-stream.live  
 hypestyle.store  
 sound-retail.fun  
@@ -109,7 +104,6 @@ aquanexa.email
 man-voix.email  
 distinct-stone.promo  
 techsstep.email  
-beowulfchain.com  
 bots-robotics.promo  
 megaauthentic.promo  
 fundedu.red  
@@ -127,7 +121,6 @@ artschamp.guru
 droid-bistro.tech  
 yumdoctor.guru  
 querycaptain.tech  
-a-qui-s.fr  
 mobi-zorro.tech  
 nerdnative.tech  
 xchng.io  
@@ -161,7 +154,6 @@ giga-axis.network
 playgroundmoose.fun  
 good-genuine.games  
 hiddenprofiler.network  
-dorcel.com  
 painted-spot.art  
 talesofmyland.live  
 agilequantum.cloud  
@@ -172,8 +164,6 @@ combigames.fun
 craftsybags.design  
 swayswing.dance  
 telemob.network  
-newsletter.orange.fr  
 pinkstone.style  
-email.kraken.com  
 extramoves.guide  
 illumino-tales.stream  
