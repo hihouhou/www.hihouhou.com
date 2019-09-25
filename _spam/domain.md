@@ -167,3 +167,4 @@ telemob.network
 pinkstone.style  
 extramoves.guide  
 illumino-tales.stream  
+decagadgets.review  
