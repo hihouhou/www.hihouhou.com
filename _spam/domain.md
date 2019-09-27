@@ -181,3 +181,4 @@ ware-sales.promo
 resellfashion.style  
 yobit.net  
 sparky-stock.style  
+play-techs.tech  
