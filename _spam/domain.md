@@ -186,3 +186,4 @@ nutritionways.recipes
 discounts-boom.promo  
 cuisinecasket.recipes  
 cherishedpixie.design  
+cabinet-fennas.fr  
