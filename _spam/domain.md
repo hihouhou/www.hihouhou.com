@@ -194,3 +194,4 @@ herdates.date
 skyreverie.science  
 pizzaxel.recipes  
 healthmate.recipes  
+dm.coingame.com  
