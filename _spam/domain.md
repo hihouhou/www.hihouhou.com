@@ -207,3 +207,4 @@ careindexer.red
 bing-plan.red  
 hard-atelier.men  
 previewmasters.live  
+photopelago.live  
