@@ -228,3 +228,4 @@ permissions-ukl.triedpro.org
 worldopo.io  
 pulsameter.world  
 stardustar.world  
+classytrend.life  
