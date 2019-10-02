@@ -226,3 +226,4 @@ coupleflirt.date
 gofreshbody.fun  
 permissions-ukl.triedpro.org  
 worldopo.io  
+pulsameter.world  
