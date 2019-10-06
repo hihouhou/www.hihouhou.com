@@ -255,3 +255,4 @@ mapmeridian.world
 shoppisty.store  
 gadgettarget.email  
 steppingtours.life  
+digiphoto.fun  
