@@ -175,7 +175,6 @@ counseldock.group
 servicemen-career.men  
 coworkinglink.network  
 art-of-groom.art  
-infos.digiposte.fr  
 arts-encorium.art  
 ware-sales.promo  
 resellfashion.style  
@@ -209,7 +208,6 @@ hard-atelier.men
 previewmasters.live  
 photopelago.live  
 thunderpulsar.live  
-fr.edenred.info  
 recruit-container.today  
 teaclues.store  
 webinarharbor.today  
@@ -234,7 +232,6 @@ fisherysuppliers.store
 quische.store  
 ignite-rack.network  
 spend-spot.promo  
-kraken.com  
 liciousparty.party  
 chataxe.date  
 crowd-topic.today  
