@@ -5,4 +5,7 @@
 layout: home
 ---
 
-En cours de construction, patience...
+Hello les gens,
+
+Je fais un petit site afin de lister divers choses comme les cryptos/spammers/tentatives d'intrusions, le tout automatisé.
+Soyez indulgents :-)
