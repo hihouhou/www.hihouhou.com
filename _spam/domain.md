@@ -349,3 +349,4 @@ love2-pick.date
 lake-orchid.date  
 bytheplace.house  
 tel.ru  
+fastplix.design  
