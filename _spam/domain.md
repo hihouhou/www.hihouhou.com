@@ -352,3 +352,4 @@ tel.ru
 fastplix.design  
 cloud-crone.cloud  
 faultlessservers.network  
+up-zing-games.games  
