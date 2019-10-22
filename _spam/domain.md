@@ -354,3 +354,4 @@ cloud-crone.cloud
 faultlessservers.network  
 up-zing-games.games  
 yogaplayers.online  
+alumnos.uai.cl  
