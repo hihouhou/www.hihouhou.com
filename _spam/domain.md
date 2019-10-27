@@ -390,3 +390,4 @@ techtap.tech
 city-green.life  
 techieloop.tech  
 phonecasings.store  
+edaptmedia.email  
