@@ -383,3 +383,4 @@ grand-sushi.store
 k9shift.site  
 upsilon-v-r.tech  
 freeuk.com  
+technimia.tech  
