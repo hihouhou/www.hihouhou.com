@@ -480,3 +480,4 @@ signupnosweat.fitness
 designtopia.art  
 charmeatelier.design  
 deskfairy.design  
+synchrotalent.dance  
