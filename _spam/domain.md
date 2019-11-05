@@ -479,3 +479,4 @@ sound-retail.agency
 signupnosweat.fitness  
 designtopia.art  
 charmeatelier.design  
+deskfairy.design  
