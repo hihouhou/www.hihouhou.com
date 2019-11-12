@@ -534,3 +534,4 @@ apexdesignmedia.services
 testprepdepartment.online  
 health-dyna.life  
 anythingless.store  
+tech-own.tech  
