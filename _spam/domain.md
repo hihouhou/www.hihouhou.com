@@ -549,3 +549,4 @@ planetomatic.party
 themescircle.site  
 brightsolution.services  
 exclusivera.design  
+zingy-gallery.design  
