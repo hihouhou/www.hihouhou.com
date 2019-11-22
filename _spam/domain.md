@@ -586,3 +586,4 @@ merckens-fundraising.today
 adventurzy.fun  
 smarty-wave.design  
 box-fork.run  
+activwiz.club  
