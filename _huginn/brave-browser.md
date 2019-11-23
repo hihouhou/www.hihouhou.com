@@ -108,3 +108,101 @@
 
 2019-11-07 07:02: new brave-browser version available : v0.74.7 https://api.github.com/repos/brave/brave-browser/tarball/v0.74.7 changelog : https://github.com/brave/brave-browser/blob/v0.74.7/CHANGELOG.md
 
+2019-11-07 13:02: new brave-browser version available : v0.74.8 https://api.github.com/repos/brave/brave-browser/tarball/v0.74.8 changelog : https://github.com/brave/brave-browser/blob/v0.74.8/CHANGELOG.md
+
+2019-11-07 16:02: new brave-browser version available : v0.74.9 https://api.github.com/repos/brave/brave-browser/tarball/v0.74.9 changelog : https://github.com/brave/brave-browser/blob/v0.74.9/CHANGELOG.md
+
+2019-11-08 02:02: new brave-browser version available : v0.72.121 https://api.github.com/repos/brave/brave-browser/tarball/v0.72.121 changelog : https://github.com/brave/brave-browser/blob/v0.72.121/CHANGELOG.md
+
+2019-11-08 12:02: new brave-browser version available : v0.71.113 https://api.github.com/repos/brave/brave-browser/tarball/v0.71.113 changelog : https://github.com/brave/brave-browser/blob/v0.71.113/CHANGELOG.md
+
+2019-11-09 00:02: new brave-browser version available : v0.72.122 https://api.github.com/repos/brave/brave-browser/tarball/v0.72.122 changelog : https://github.com/brave/brave-browser/blob/v0.72.122/CHANGELOG.md
+
+2019-11-09 03:02: new brave-browser version available : v0.73.64 https://api.github.com/repos/brave/brave-browser/tarball/v0.73.64 changelog : https://github.com/brave/brave-browser/blob/v0.73.64/CHANGELOG.md
+
+2019-11-09 15:02: new brave-browser version available : v0.71.114 https://api.github.com/repos/brave/brave-browser/tarball/v0.71.114 changelog : https://github.com/brave/brave-browser/blob/v0.71.114/CHANGELOG.md
+
+2019-11-09 17:02: new brave-browser version available : v0.74.14 https://api.github.com/repos/brave/brave-browser/tarball/v0.74.14 changelog : https://github.com/brave/brave-browser/blob/v0.74.14/CHANGELOG.md
+
+2019-11-10 20:02: new brave-browser version available : v0.74.15 https://api.github.com/repos/brave/brave-browser/tarball/v0.74.15 changelog : https://github.com/brave/brave-browser/blob/v0.74.15/CHANGELOG.md
+
+2019-11-10 23:02: new brave-browser version available : v0.72.123 https://api.github.com/repos/brave/brave-browser/tarball/v0.72.123 changelog : https://github.com/brave/brave-browser/blob/v0.72.123/CHANGELOG.md
+
+2019-11-11 11:02: new brave-browser version available : v0.73.65 https://api.github.com/repos/brave/brave-browser/tarball/v0.73.65 changelog : https://github.com/brave/brave-browser/blob/v0.73.65/CHANGELOG.md
+
+2019-11-11 12:02: new brave-browser version available : v0.74.17 https://api.github.com/repos/brave/brave-browser/tarball/v0.74.17 changelog : https://github.com/brave/brave-browser/blob/v0.74.17/CHANGELOG.md
+
+2019-11-11 16:02: new brave-browser version available : v0.74.18 https://api.github.com/repos/brave/brave-browser/tarball/v0.74.18 changelog : https://github.com/brave/brave-browser/blob/v0.74.18/CHANGELOG.md
+
+2019-11-11 23:02: new brave-browser version available : v0.72.124 https://api.github.com/repos/brave/brave-browser/tarball/v0.72.124 changelog : https://github.com/brave/brave-browser/blob/v0.72.124/CHANGELOG.md
+
+2019-11-12 03:02: new brave-browser version available : v0.71.115 https://api.github.com/repos/brave/brave-browser/tarball/v0.71.115 changelog : https://github.com/brave/brave-browser/blob/v0.71.115/CHANGELOG.md
+
+2019-11-12 04:02: new brave-browser version available : v0.73.66 https://api.github.com/repos/brave/brave-browser/tarball/v0.73.66 changelog : https://github.com/brave/brave-browser/blob/v0.73.66/CHANGELOG.md
+
+2019-11-12 13:02: new brave-browser version available : v0.74.20 https://api.github.com/repos/brave/brave-browser/tarball/v0.74.20 changelog : https://github.com/brave/brave-browser/blob/v0.74.20/CHANGELOG.md
+
+2019-11-12 15:02: new brave-browser version available : v0.71.116 https://api.github.com/repos/brave/brave-browser/tarball/v0.71.116 changelog : https://github.com/brave/brave-browser/blob/v0.71.116/CHANGELOG.md
+
+2019-11-13 07:02: new brave-browser version available : v1.0.0 https://api.github.com/repos/brave/brave-browser/tarball/v1.0.0 changelog : https://github.com/brave/brave-browser/blob/v1.0.0/CHANGELOG.md
+
+2019-11-13 12:02: new brave-browser version available : v1.3.2 https://api.github.com/repos/brave/brave-browser/tarball/v1.3.2 changelog : https://github.com/brave/brave-browser/blob/v1.3.2/CHANGELOG.md
+
+2019-11-14 08:02: new brave-browser version available : v1.3.4 https://api.github.com/repos/brave/brave-browser/tarball/v1.3.4 changelog : https://github.com/brave/brave-browser/blob/v1.3.4/CHANGELOG.md
+
+2019-11-14 11:02: new brave-browser version available : v1.1.1 https://api.github.com/repos/brave/brave-browser/tarball/v1.1.1 changelog : https://github.com/brave/brave-browser/blob/v1.1.1/CHANGELOG.md
+
+2019-11-14 14:02: new brave-browser version available : v1.2.1 https://api.github.com/repos/brave/brave-browser/tarball/v1.2.1 changelog : https://github.com/brave/brave-browser/blob/v1.2.1/CHANGELOG.md
+
+2019-11-14 19:02: new brave-browser version available : v1.3.5 https://api.github.com/repos/brave/brave-browser/tarball/v1.3.5 changelog : https://github.com/brave/brave-browser/blob/v1.3.5/CHANGELOG.md
+
+2019-11-15 03:02: new brave-browser version available : v1.1.2 https://api.github.com/repos/brave/brave-browser/tarball/v1.1.2 changelog : https://github.com/brave/brave-browser/blob/v1.1.2/CHANGELOG.md
+
+2019-11-15 09:02: new brave-browser version available : v1.2.2 https://api.github.com/repos/brave/brave-browser/tarball/v1.2.2 changelog : https://github.com/brave/brave-browser/blob/v1.2.2/CHANGELOG.md
+
+2019-11-15 16:02: new brave-browser version available : v1.3.8 https://api.github.com/repos/brave/brave-browser/tarball/v1.3.8 changelog : https://github.com/brave/brave-browser/blob/v1.3.8/CHANGELOG.md
+
+2019-11-15 23:02: new brave-browser version available : v1.1.3 https://api.github.com/repos/brave/brave-browser/tarball/v1.1.3 changelog : https://github.com/brave/brave-browser/blob/v1.1.3/CHANGELOG.md
+
+2019-11-16 03:02: new brave-browser version available : v1.2.3 https://api.github.com/repos/brave/brave-browser/tarball/v1.2.3 changelog : https://github.com/brave/brave-browser/blob/v1.2.3/CHANGELOG.md
+
+2019-11-17 00:02: new brave-browser version available : v1.3.9 https://api.github.com/repos/brave/brave-browser/tarball/v1.3.9 changelog : https://github.com/brave/brave-browser/blob/v1.3.9/CHANGELOG.md
+
+2019-11-18 08:02: new brave-browser version available : v1.1.4 https://api.github.com/repos/brave/brave-browser/tarball/v1.1.4 changelog : https://github.com/brave/brave-browser/blob/v1.1.4/CHANGELOG.md
+
+2019-11-18 12:02: new brave-browser version available : v1.2.4 https://api.github.com/repos/brave/brave-browser/tarball/v1.2.4 changelog : https://github.com/brave/brave-browser/blob/v1.2.4/CHANGELOG.md
+
+2019-11-18 20:02: new brave-browser version available : v1.3.11 https://api.github.com/repos/brave/brave-browser/tarball/v1.3.11 changelog : https://github.com/brave/brave-browser/blob/v1.3.11/CHANGELOG.md
+
+2019-11-18 23:03: new brave-browser version available : v1.3.12 https://api.github.com/repos/brave/brave-browser/tarball/v1.3.12 changelog : https://github.com/brave/brave-browser/blob/v1.3.12/CHANGELOG.md
+
+2019-11-19 04:02: new brave-browser version available : v1.3.13 https://api.github.com/repos/brave/brave-browser/tarball/v1.3.13 changelog : https://github.com/brave/brave-browser/blob/v1.3.13/CHANGELOG.md
+
+2019-11-19 09:02: new brave-browser version available : v1.0.1 https://api.github.com/repos/brave/brave-browser/tarball/v1.0.1 changelog : https://github.com/brave/brave-browser/blob/v1.0.1/CHANGELOG.md
+
+2019-11-19 12:02: new brave-browser version available : v1.2.5 https://api.github.com/repos/brave/brave-browser/tarball/v1.2.5 changelog : https://github.com/brave/brave-browser/blob/v1.2.5/CHANGELOG.md
+
+2019-11-20 03:02: new brave-browser version available : v1.3.17 https://api.github.com/repos/brave/brave-browser/tarball/v1.3.17 changelog : https://github.com/brave/brave-browser/blob/v1.3.17/CHANGELOG.md
+
+2019-11-20 20:02: new brave-browser version available : v1.3.19 https://api.github.com/repos/brave/brave-browser/tarball/v1.3.19 changelog : https://github.com/brave/brave-browser/blob/v1.3.19/CHANGELOG.md
+
+2019-11-21 00:02: new brave-browser version available : v1.3.20 https://api.github.com/repos/brave/brave-browser/tarball/v1.3.20 changelog : https://github.com/brave/brave-browser/blob/v1.3.20/CHANGELOG.md
+
+2019-11-21 04:03: new brave-browser version available : v1.3.21 https://api.github.com/repos/brave/brave-browser/tarball/v1.3.21 changelog : https://github.com/brave/brave-browser/blob/v1.3.21/CHANGELOG.md
+
+2019-11-21 08:02: new brave-browser version available : v1.1.7 https://api.github.com/repos/brave/brave-browser/tarball/v1.1.7 changelog : https://github.com/brave/brave-browser/blob/v1.1.7/CHANGELOG.md
+
+2019-11-21 12:02: new brave-browser version available : v1.2.7 https://api.github.com/repos/brave/brave-browser/tarball/v1.2.7 changelog : https://github.com/brave/brave-browser/blob/v1.2.7/CHANGELOG.md
+
+2019-11-21 16:03: new brave-browser version available : v1.3.22 https://api.github.com/repos/brave/brave-browser/tarball/v1.3.22 changelog : https://github.com/brave/brave-browser/blob/v1.3.22/CHANGELOG.md
+
+2019-11-22 00:02: new brave-browser version available : v1.3.23 https://api.github.com/repos/brave/brave-browser/tarball/v1.3.23 changelog : https://github.com/brave/brave-browser/blob/v1.3.23/CHANGELOG.md
+
+2019-11-22 04:02: new brave-browser version available : v1.3.24 https://api.github.com/repos/brave/brave-browser/tarball/v1.3.24 changelog : https://github.com/brave/brave-browser/blob/v1.3.24/CHANGELOG.md
+
+2019-11-22 14:02: new brave-browser version available : v1.2.8 https://api.github.com/repos/brave/brave-browser/tarball/v1.2.8 changelog : https://github.com/brave/brave-browser/blob/v1.2.8/CHANGELOG.md
+
+2019-11-22 16:03: new brave-browser version available : v1.3.25 https://api.github.com/repos/brave/brave-browser/tarball/v1.3.25 changelog : https://github.com/brave/brave-browser/blob/v1.3.25/CHANGELOG.md
+
+2019-11-23 08:02: new brave-browser version available : v1.1.9 https://api.github.com/repos/brave/brave-browser/tarball/v1.1.9 changelog : https://github.com/brave/brave-browser/blob/v1.1.9/CHANGELOG.md
+

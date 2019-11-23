@@ -6,3 +6,5 @@
 
 2019-11-06 00:02: new terraform-provider-google-beta version available : v2.19.0 https://api.github.com/repos/terraform-providers/terraform-provider-google-beta/tarball/v2.19.0 changelog : https://github.com/terraform-providers/terraform-provider-google-beta/blob/master/CHANGELOG.md
 
+2019-11-14 00:02: new terraform-provider-google-beta version available : v2.20.0 https://api.github.com/repos/terraform-providers/terraform-provider-google-beta/tarball/v2.20.0 changelog : https://github.com/terraform-providers/terraform-provider-google-beta/blob/master/CHANGELOG.md
+
