@@ -688,3 +688,4 @@ sales-senses.store
 digital-hutch.tech  
 insidecycled.website  
 smart-life-astrology.space  
+assur.vip  
