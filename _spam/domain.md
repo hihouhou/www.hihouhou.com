@@ -691,3 +691,4 @@ smart-life-astrology.space
 assur.vip  
 et.uber.com  
 bistudio.com  
+fancy-league.club  
