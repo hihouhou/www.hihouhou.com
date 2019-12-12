@@ -728,3 +728,4 @@ owl-visitor.confuselook.com
 plixtech.site  
 cavalier.upwhich.com  
 bloxmen.men  
+techqsolutions.tech  
