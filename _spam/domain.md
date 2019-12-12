@@ -719,3 +719,4 @@ binary-squad.team
 graphyz.store  
 engagefused.tech  
 fuk.io  
+algonet.se  
