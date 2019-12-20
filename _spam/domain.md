@@ -760,3 +760,4 @@ today-spree.eu
 bit-routes.net  
 lodgeyourpet.eu  
 responsecircle.eu  
+classymax.net  
