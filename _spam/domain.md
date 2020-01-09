@@ -911,3 +911,4 @@ uthbrigade.eu
 play-five.us  
 pound-paws-alliance.us  
 arctic-premium.eu  
+newsvelocity.us  
