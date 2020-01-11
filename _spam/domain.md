@@ -928,3 +928,4 @@ kucoin.com
 aussiedigital.io  
 infondis.com  
 imagi-mojo.com  
+appealpics.com  
