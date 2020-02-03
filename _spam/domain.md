@@ -1070,3 +1070,4 @@ fortehike.eu
 migraineflash.eu  
 indiesail.eu  
 lendo.io  
+vitpin.org  
