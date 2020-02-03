@@ -1069,3 +1069,4 @@ qualot.eu
 fortehike.eu  
 migraineflash.eu  
 indiesail.eu  
+lendo.io  
