@@ -1238,3 +1238,4 @@ mobinamix.eu
 weddingbellsapp.eu  
 logic-agile.us  
 rapidwolf.eu  
+amir.capital  
