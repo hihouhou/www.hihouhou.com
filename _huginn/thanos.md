@@ -6,3 +6,5 @@
 
 2020-01-24 10:13: new thanos version available : v0.10.1 https://api.github.com/repos/thanos-io/thanos/tarball/v0.10.1 changelog : https://github.com/thanos-io/thanos/releases/tag/v0.10.1
 
+2020-03-02 18:22: new thanos version available : v0.11.0 https://api.github.com/repos/thanos-io/thanos/tarball/v0.11.0 changelog : https://github.com/thanos-io/thanos/releases/tag/v0.11.0
+

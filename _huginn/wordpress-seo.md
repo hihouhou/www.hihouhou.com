@@ -16,3 +16,9 @@
 
 2020-01-21 15:03: new wordpress-seo version available : 12.9.1 https://api.github.com/repos/Yoast/wordpress-seo/tarball/12.9.1 changelog : https://github.com/Yoast/wordpress-seo/releases/tag/12.9.1
 
+2020-02-04 13:32: new wordpress-seo version available : 13.0 https://api.github.com/repos/Yoast/wordpress-seo/tarball/13.0 changelog : https://github.com/Yoast/wordpress-seo/releases/tag/13.0
+
+2020-02-18 10:42: new wordpress-seo version available : 13.1 https://api.github.com/repos/Yoast/wordpress-seo/tarball/13.1 changelog : https://github.com/Yoast/wordpress-seo/releases/tag/13.1
+
+2020-03-03 09:52: new wordpress-seo version available : 13.2 https://api.github.com/repos/Yoast/wordpress-seo/tarball/13.2 changelog : https://github.com/Yoast/wordpress-seo/releases/tag/13.2
+

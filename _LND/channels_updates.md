@@ -6,3 +6,11 @@
 
 2020-01-25 21:01: 670554758424559617 with 268853 satoshis is active
 
+2020-02-01 09:01: 676662545558863872 with 31337 satoshis is active
+
+all closed
+
+2020-02-18 08:40: lnd channel 679277184143785984 with 641846 satoshis is active
+
+2020-03-02 08:08: lnd channel 681380549999788033 with 691078 satoshis is active
+

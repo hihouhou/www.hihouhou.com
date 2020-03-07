@@ -10,3 +10,9 @@
 
 2020-01-15 15:03: new grafana version available : v6.5.3 https://api.github.com/repos/grafana/grafana/tarball/v6.5.3 changelog : https://github.com/grafana/grafana/releases/tag/v6.5.3
 
+2020-01-27 15:23: new grafana version available : v6.6.0 https://api.github.com/repos/grafana/grafana/tarball/v6.6.0 changelog : https://github.com/grafana/grafana/releases/tag/v6.6.0
+
+2020-02-06 14:02: new grafana version available : v6.6.1 https://api.github.com/repos/grafana/grafana/tarball/v6.6.1 changelog : https://github.com/grafana/grafana/releases/tag/v6.6.1
+
+2020-02-20 17:02: new grafana version available : v6.6.2 https://api.github.com/repos/grafana/grafana/tarball/v6.6.2 changelog : https://github.com/grafana/grafana/releases/tag/v6.6.2
+

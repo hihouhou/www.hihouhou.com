@@ -18,3 +18,9 @@
 
 2020-01-22 23:33: new terraform version available : v0.12.20 https://api.github.com/repos/hashicorp/terraform/tarball/v0.12.20 changelog : https://github.com/hashicorp/terraform/releases/tag/v0.12.20
 
+2020-02-19 19:32: new terraform version available : v0.12.21 https://api.github.com/repos/hashicorp/terraform/tarball/v0.12.21 changelog : https://github.com/hashicorp/terraform/releases/tag/v0.12.21
+
+2020-03-05 21:42: new terraform version available : v0.12.22 https://api.github.com/repos/hashicorp/terraform/tarball/v0.12.22 changelog : https://github.com/hashicorp/terraform/releases/tag/v0.12.22
+
+2020-03-05 22:32: new terraform version available : v0.12.23 https://api.github.com/repos/hashicorp/terraform/tarball/v0.12.23 changelog : https://github.com/hashicorp/terraform/releases/tag/v0.12.23
+

@@ -1,5 +1,7 @@
 {% include_relative _huginn/ansible.md %}
 
+{% include_relative _huginn/Arduino.md %}
+
 {% include_relative _huginn/BGPalerter.md %}
 
 {% include_relative _huginn/bitcoincore.md %}
@@ -13,6 +15,10 @@
 {% include_relative _huginn/elasticsearch-hq.md %}
 
 {% include_relative _huginn/elasticsearch.md %}
+
+{% include_relative _huginn/enpass.md %}
+
+{% include_relative _huginn/enpass_ff_plugin.md %}
 
 {% include_relative _huginn/fail2ban.md %}
 
@@ -36,9 +42,13 @@
 
 {% include_relative _huginn/json-server.md %}
 
+{% include_relative _huginn/kafka.md %}
+
 {% include_relative _huginn/kibana.md %}
 
 {% include_relative _huginn/logstash.md %}
+
+{% include_relative _huginn/mobaxterm.md %}
 
 {% include_relative _huginn/nomad.md %}
 

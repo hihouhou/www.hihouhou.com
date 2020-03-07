@@ -963,7 +963,6 @@ vendag.net
 technocontent.net  
 cartridgemotion.net  
 picksto.eu  
-ebay.com  
 sunglassesempire.eu  
 auth-perfection-verify.com  
 gridpositivity.eu  
@@ -1005,7 +1004,6 @@ dine-loop.com
 go-mobile-krunch.net  
 tronic-edge.net  
 dramatic-motions.eu  
-news-digiposte.laposte.info  
 laresidence.fr  
 mindsteady.us  
 webzdeveloper.eu  
@@ -1047,7 +1045,6 @@ playerrific.com
 wellness-ray.net  
 visitey.net  
 full-flux.us  
-mondedommagementnavigo.com  
 chain-herbal.com  
 lovely-hunt.com  
 urbix-bliss.net  
@@ -1090,14 +1087,12 @@ eservices-laposte.fr
 idea-rocketz.eu  
 spendbus.eu  
 smart-life-astrology.eu  
-herblay.fr  
 migraine-follow.us  
 trend-grand-stand.us  
 artchisel.us  
 tshirtstarship.eu  
 mobrem-deals.com  
 info.lemonde.fr  
-changenow.io  
 kitchencept.eu  
 violet-silk-touch.eu  
 cuisinecasket.com  
@@ -1219,8 +1214,6 @@ printsdecor.net
 salestant.us  
 biturion.eu  
 supplementrocket.us  
-amen.fr  
-adl-immo.fr  
 muralgrid.net  
 webrua.com  
 dazzling-wine.com  

@@ -2,3 +2,7 @@
 
 2020-01-21 17:23: new wpscan version available : v3.7.7 https://api.github.com/repos/wpscanteam/wpscan/tarball/v3.7.7 changelog : https://github.com/wpscanteam/wpscan/releases/tag/v3.7.7
 
+2020-02-09 14:42: new wpscan version available : v3.7.8 https://api.github.com/repos/wpscanteam/wpscan/tarball/v3.7.8 changelog : https://github.com/wpscanteam/wpscan/releases/tag/v3.7.8
+
+2020-02-29 14:32: new wpscan version available : v3.7.9 https://api.github.com/repos/wpscanteam/wpscan/tarball/v3.7.9 changelog : https://github.com/wpscanteam/wpscan/releases/tag/v3.7.9
+

@@ -8,3 +8,5 @@
 
 2020-01-12 21:03: new openhab-distro version available : 2.5.1 https://api.github.com/repos/openhab/openhab-distro/tarball/2.5.1 changelog : https://github.com/openhab/openhab-distro/releases/tag/2.5.1
 
+2020-02-20 08:32: new openhab-distro version available : 2.5.2 https://api.github.com/repos/openhab/openhab-distro/tarball/2.5.2 changelog : https://github.com/openhab/openhab-distro/releases/tag/2.5.2
+

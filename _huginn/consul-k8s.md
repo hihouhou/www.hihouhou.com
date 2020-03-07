@@ -10,3 +10,5 @@
 
 2020-01-11 00:03: new consul-k8s version available : v0.11.0 https://api.github.com/repos/hashicorp/consul-k8s/tarball/v0.11.0 changelog : https://github.com/hashicorp/consul-k8s/blob/master/CHANGELOG.md
 
+2020-02-22 00:02: new consul-k8s version available : v0.12.0 https://api.github.com/repos/hashicorp/consul-k8s/tarball/v0.12.0 changelog : https://github.com/hashicorp/consul-k8s/blob/master/CHANGELOG.md
+

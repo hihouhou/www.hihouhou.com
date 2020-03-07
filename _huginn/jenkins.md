@@ -36,3 +36,15 @@
 
 2020-01-23 18:33: new jenkins version available : jenkins-2.216 https://api.github.com/repos/jenkinsci/jenkins/tarball/jenkins-2.216 changelog : https://github.com/jenkinsci/jenkins/releases/tag/jenkins-2.216
 
+2020-01-27 23:43: new jenkins version available : jenkins-2.218 https://api.github.com/repos/jenkinsci/jenkins/tarball/jenkins-2.218 changelog : https://github.com/jenkinsci/jenkins/releases/tag/jenkins-2.218
+
+2020-02-10 10:22: new jenkins version available : jenkins-2.220 https://api.github.com/repos/jenkinsci/jenkins/tarball/jenkins-2.220 changelog : https://github.com/jenkinsci/jenkins/releases/tag/jenkins-2.220
+
+2020-02-19 21:32: new jenkins version available : jenkins-2.221 https://api.github.com/repos/jenkinsci/jenkins/tarball/jenkins-2.221 changelog : https://github.com/jenkinsci/jenkins/releases/tag/jenkins-2.221
+
+2020-02-24 14:02: new jenkins version available : jenkins-2.222 https://api.github.com/repos/jenkinsci/jenkins/tarball/jenkins-2.222 changelog : https://github.com/jenkinsci/jenkins/releases/tag/jenkins-2.222
+
+2020-02-28 22:12: new jenkins version available : jenkins-2.204.3 https://api.github.com/repos/jenkinsci/jenkins/tarball/jenkins-2.204.3 changelog : https://github.com/jenkinsci/jenkins/releases/tag/jenkins-2.204.3
+
+2020-03-02 03:22: new jenkins version available : jenkins-2.223 https://api.github.com/repos/jenkinsci/jenkins/tarball/jenkins-2.223 changelog : https://github.com/jenkinsci/jenkins/releases/tag/jenkins-2.223
+

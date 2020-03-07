@@ -12,3 +12,13 @@
 
 2019-12-18 00:03: new helm version available : v3.0.2 https://api.github.com/repos/helm/helm/tarball/v3.0.2 changelog : https://github.com/helm/helm/releases/tag/v3.0.2
 
+2020-01-29 16:43: new helm version available : v3.0.3 https://api.github.com/repos/helm/helm/tarball/v3.0.3 changelog : https://github.com/helm/helm/releases/tag/v3.0.3
+
+2020-02-13 18:12: new helm version available : v3.1.0 https://api.github.com/repos/helm/helm/tarball/v3.1.0 changelog : https://github.com/helm/helm/releases/tag/v3.1.0
+
+2020-02-14 00:12: new helm version available : v2.16.2 https://api.github.com/repos/helm/helm/tarball/v2.16.2 changelog : https://github.com/helm/helm/releases/tag/v2.16.2
+
+2020-02-14 01:02: new helm version available : v2.16.3 https://api.github.com/repos/helm/helm/tarball/v2.16.3 changelog : https://github.com/helm/helm/releases/tag/v2.16.3
+
+2020-02-20 21:12: new helm version available : v3.1.1 https://api.github.com/repos/helm/helm/tarball/v3.1.1 changelog : https://github.com/helm/helm/releases/tag/v3.1.1
+
