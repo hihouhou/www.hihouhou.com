@@ -12,3 +12,5 @@
 
 2020-02-27 00:03: new presto version available : 0.232 https://api.github.com/repos/prestodb/presto/tarball/0.232 changelog : https://prestodb.github.io/docs/current/release/release-0.232.html
 
+| 2020-03-19 00:01 | presto | 0.233 | https://api.github.com/repos/prestodb/presto/tarball/0.233 | https://prestodb.github.io/docs/current/release/release-0.233.html |
+| 2020-03-25 00:01 | presto | 0.233.1 | https://api.github.com/repos/prestodb/presto/tarball/0.233.1 | https://prestodb.github.io/docs/current/release/release-0.233.1.html |

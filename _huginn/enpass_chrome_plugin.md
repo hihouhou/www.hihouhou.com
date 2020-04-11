@@ -1,0 +1,1 @@
+| 2020-04-09 00:01 | enpass_chrome_plugin | 6.4.0 | https://chrome.google.com/webstore/detail/enpass-password-manager/kmcfomidfpdkfieipokbalgegidffkal changelog : https://www.enpass.io/release-notes/enpass-browser-extensions/ |

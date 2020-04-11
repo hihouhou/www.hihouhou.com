@@ -16,3 +16,7 @@
 
 2020-02-27 05:32: new fluent-bit version available : v1.3.9 https://api.github.com/repos/fluent/fluent-bit/tarball/v1.3.9 changelog : https://github.com/fluent/fluent-bit/releases/tag/v1.3.9
 
+| 2020-03-27 02:50 | fluent-bit | v1.4.1 | https://api.github.com/repos/fluent/fluent-bit/tarball/v1.4.1 | https://github.com/fluent/fluent-bit/releases/tag/v1.4.1 |
+| 2020-03-27 02:50 | fluent-bit | v1.4.0 | https://api.github.com/repos/fluent/fluent-bit/tarball/v1.4.0 | https://github.com/fluent/fluent-bit/releases/tag/v1.4.0 |
+| 2020-03-27 02:50 | fluent-bit | v1.3.11 | https://api.github.com/repos/fluent/fluent-bit/tarball/v1.3.11 | https://github.com/fluent/fluent-bit/releases/tag/v1.3.11 |
+| 2020-03-27 02:50 | fluent-bit | v1.3.10 | https://api.github.com/repos/fluent/fluent-bit/tarball/v1.3.10 | https://github.com/fluent/fluent-bit/releases/tag/v1.3.10 |

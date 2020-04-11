@@ -10,3 +10,4 @@
 
 2020-02-22 03:12: new rundeck version available : v3.2.3 https://api.github.com/repos/rundeck/rundeck/tarball/v3.2.3 changelog : https://github.com/rundeck/rundeck/releases/tag/v3.2.3
 
+| 2020-04-04 02:00 | rundeck | v3.2.5 | https://api.github.com/repos/rundeck/rundeck/tarball/v3.2.5 | https://github.com/rundeck/rundeck/releases/tag/v3.2.5 |

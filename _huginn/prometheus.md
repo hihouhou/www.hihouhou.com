@@ -8,3 +8,5 @@
 
 2020-02-14 08:02: new prometheus version available : v2.16.0 https://api.github.com/repos/prometheus/prometheus/tarball/v2.16.0 changelog : https://github.com/prometheus/prometheus/releases/tag/v2.16.0
 
+| 2020-03-24 21:40 | prometheus | v2.17.0 | https://api.github.com/repos/prometheus/prometheus/tarball/v2.17.0 | https://github.com/prometheus/prometheus/releases/tag/v2.17.0 |
+| 2020-03-26 20:00 | prometheus | v2.17.1 | https://api.github.com/repos/prometheus/prometheus/tarball/v2.17.1 | https://github.com/prometheus/prometheus/releases/tag/v2.17.1 |

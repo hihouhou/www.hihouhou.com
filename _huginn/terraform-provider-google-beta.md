@@ -1,34 +1,23 @@
 ## Terraform-provider-google-beta versions report
 
-2019-10-24 00:02: new terraform-provider-google-beta version available : v2.18.0 https://api.github.com/repos/terraform-providers/terraform-provider-google-beta/tarball/v2.18.0 changelog : https://github.com/terraform-providers/terraform-provider-google-beta/blob/master/CHANGELOG.md
-
-2019-10-26 00:02: new terraform-provider-google-beta version available : v2.18.1 https://api.github.com/repos/terraform-providers/terraform-provider-google-beta/tarball/v2.18.1 changelog : https://github.com/terraform-providers/terraform-provider-google-beta/blob/master/CHANGELOG.md
-
-2019-11-06 00:02: new terraform-provider-google-beta version available : v2.19.0 https://api.github.com/repos/terraform-providers/terraform-provider-google-beta/tarball/v2.19.0 changelog : https://github.com/terraform-providers/terraform-provider-google-beta/blob/master/CHANGELOG.md
-
-2019-11-14 00:02: new terraform-provider-google-beta version available : v2.20.0 https://api.github.com/repos/terraform-providers/terraform-provider-google-beta/tarball/v2.20.0 changelog : https://github.com/terraform-providers/terraform-provider-google-beta/blob/master/CHANGELOG.md
-
-2019-12-05 00:03: new terraform-provider-google-beta version available : v3.0.0 https://api.github.com/repos/terraform-providers/terraform-provider-google-beta/tarball/v3.0.0 changelog : https://github.com/terraform-providers/terraform-provider-google-beta/blob/master/CHANGELOG.md
-
-2019-12-06 00:02: new terraform-provider-google-beta version available : v3.1.0 https://api.github.com/repos/terraform-providers/terraform-provider-google-beta/tarball/v3.1.0 changelog : https://github.com/terraform-providers/terraform-provider-google-beta/blob/master/CHANGELOG.md
-
-2019-12-13 00:03: new terraform-provider-google-beta version available : v3.2.0 https://api.github.com/repos/terraform-providers/terraform-provider-google-beta/tarball/v3.2.0 changelog : https://github.com/terraform-providers/terraform-provider-google-beta/blob/master/CHANGELOG.md
-
-2019-12-18 00:03: new terraform-provider-google-beta version available : v3.3.0 https://api.github.com/repos/terraform-providers/terraform-provider-google-beta/tarball/v3.3.0 changelog : https://github.com/terraform-providers/terraform-provider-google-beta/blob/master/CHANGELOG.md
-
-2020-01-08 00:03: new terraform-provider-google-beta version available : v3.4.0 https://api.github.com/repos/terraform-providers/terraform-provider-google-beta/tarball/v3.4.0 changelog : https://github.com/terraform-providers/terraform-provider-google-beta/blob/master/CHANGELOG.md
-
-2020-01-23 00:03: new terraform-provider-google-beta version available : v3.5.0 https://api.github.com/repos/terraform-providers/terraform-provider-google-beta/tarball/v3.5.0 changelog : https://github.com/terraform-providers/terraform-provider-google-beta/blob/master/CHANGELOG.md
-
-2020-01-30 00:03: new terraform-provider-google-beta version available : v3.6.0 https://api.github.com/repos/terraform-providers/terraform-provider-google-beta/tarball/v3.6.0 changelog : https://github.com/terraform-providers/terraform-provider-google-beta/blob/master/CHANGELOG.md
-
-2020-02-05 00:02: new terraform-provider-google-beta version available : v3.7.0 https://api.github.com/repos/terraform-providers/terraform-provider-google-beta/tarball/v3.7.0 changelog : https://github.com/terraform-providers/terraform-provider-google-beta/blob/master/CHANGELOG.md
-
-2020-02-11 00:02: new terraform-provider-google-beta version available : v3.8.0 https://api.github.com/repos/terraform-providers/terraform-provider-google-beta/tarball/v3.8.0 changelog : https://github.com/terraform-providers/terraform-provider-google-beta/blob/master/CHANGELOG.md
-
-2020-02-19 00:02: new terraform-provider-google-beta version available : v3.9.0 https://api.github.com/repos/terraform-providers/terraform-provider-google-beta/tarball/v3.9.0 changelog : https://github.com/terraform-providers/terraform-provider-google-beta/blob/master/CHANGELOG.md
-
-2020-02-26 00:02: new terraform-provider-google-beta version available : v3.10.0 https://api.github.com/repos/terraform-providers/terraform-provider-google-beta/tarball/v3.10.0 changelog : https://github.com/terraform-providers/terraform-provider-google-beta/blob/master/CHANGELOG.md
-
-2020-03-03 00:03: new terraform-provider-google-beta version available : v3.11.0 https://api.github.com/repos/terraform-providers/terraform-provider-google-beta/tarball/v3.11.0 changelog : https://github.com/terraform-providers/terraform-provider-google-beta/blob/master/CHANGELOG.md
-
+| 2019-10-24 00:02 | terraform-provider-google-beta | v2.18.0 | https://api.github.com/repos/terraform-providers/terraform-provider-google-beta/tarball/v2.18.0 | https://github.com/terraform-providers/terraform-provider-google-beta/blob/master/CHANGELOG.md |
+| 2019-10-26 00:02 | terraform-provider-google-beta | v2.18.1 | https://api.github.com/repos/terraform-providers/terraform-provider-google-beta/tarball/v2.18.1 | https://github.com/terraform-providers/terraform-provider-google-beta/blob/master/CHANGELOG.md |
+| 2019-11-06 00:02 | terraform-provider-google-beta | v2.19.0 | https://api.github.com/repos/terraform-providers/terraform-provider-google-beta/tarball/v2.19.0 | https://github.com/terraform-providers/terraform-provider-google-beta/blob/master/CHANGELOG.md |
+| 2019-11-14 00:02 | terraform-provider-google-beta | v2.20.0 |https://api.github.com/repos/terraform-providers/terraform-provider-google-beta/tarball/v2.20.0 | https://github.com/terraform-providers/terraform-provider-google-beta/blob/master/CHANGELOG.md |
+| 2019-12-05 00:03 | terraform-provider-google-beta | v3.0.0  |https://api.github.com/repos/terraform-providers/terraform-provider-google-beta/tarball/v3.0.0 | https://github.com/terraform-providers/terraform-provider-google-beta/blob/master/CHANGELOG.md |
+| 2019-12-06 00:02 | terraform-provider-google-beta | v3.1.0 | https://api.github.com/repos/terraform-providers/terraform-provider-google-beta/tarball/v3.1.0 | https://github.com/terraform-providers/terraform-provider-google-beta/blob/master/CHANGELOG.md |
+| 2019-12-13 00:03 | terraform-provider-google-beta | v3.2.0 | https://api.github.com/repos/terraform-providers/terraform-provider-google-beta/tarball/v3.2.0 | https://github.com/terraform-providers/terraform-provider-google-beta/blob/master/CHANGELOG.md |
+| 2019-12-18 00:03 | terraform-provider-google-beta | v3.3.0 | https://api.github.com/repos/terraform-providers/terraform-provider-google-beta/tarball/v3.3.0 | https://github.com/terraform-providers/terraform-provider-google-beta/blob/master/CHANGELOG.md |
+| 2020-01-08 00:03 | terraform-provider-google-beta | v3.4.0 | https://api.github.com/repos/terraform-providers/terraform-provider-google-beta/tarball/v3.4.0 | https://github.com/terraform-providers/terraform-provider-google-beta/blob/master/CHANGELOG.md |
+| 2020-01-23 00:03 | terraform-provider-google-beta | v3.5.0 | https://api.github.com/repos/terraform-providers/terraform-provider-google-beta/tarball/v3.5.0 | https://github.com/terraform-providers/terraform-provider-google-beta/blob/master/CHANGELOG.md |
+| 2020-01-30 00:03 | terraform-provider-google-beta | v3.6.0 | https://api.github.com/repos/terraform-providers/terraform-provider-google-beta/tarball/v3.6.0 | https://github.com/terraform-providers/terraform-provider-google-beta/blob/master/CHANGELOG.md |
+| 2020-02-05 00:02 | terraform-provider-google-beta | v3.7.0 | https://api.github.com/repos/terraform-providers/terraform-provider-google-beta/tarball/v3.7.0 | https://github.com/terraform-providers/terraform-provider-google-beta/blob/master/CHANGELOG.md |
+| 2020-02-11 00:02 | terraform-provider-google-beta | v3.8.0 | https://api.github.com/repos/terraform-providers/terraform-provider-google-beta/tarball/v3.8.0 | https://github.com/terraform-providers/terraform-provider-google-beta/blob/master/CHANGELOG.md |
+| 2020-02-19 00:02 | terraform-provider-google-beta | v3.9.0 | https://api.github.com/repos/terraform-providers/terraform-provider-google-beta/tarball/v3.9.0 | https://github.com/terraform-providers/terraform-provider-google-beta/blob/master/CHANGELOG.md |
+| 2020-02-26 00:02 | terraform-provider-google-beta | v3.10.0 | https://api.github.com/repos/terraform-providers/terraform-provider-google-beta/tarball/v3.10.0 | https://github.com/terraform-providers/terraform-provider-google-beta/blob/master/CHANGELOG.md |
+| 2020-03-03 00:03 | terraform-provider-google-beta | v3.11.0 | https://api.github.com/repos/terraform-providers/terraform-provider-google-beta/tarball/v3.11.0 | https://github.com/terraform-providers/terraform-provider-google-beta/blob/master/CHANGELOG.md |
+| 2020-03-10 00:01 | terraform-provider-google-beta | v3.12.0 | https://api.github.com/repos/terraform-providers/terraform-provider-google-beta/tarball/v3.12.0 | https://github.com/terraform-providers/terraform-provider-google-beta/blob/master/CHANGELOG.md |
+| 2020-03-16 18:10 | terraform-provider-google-beta | v3.13.0 | https://api.github.com/repos/terraform-providers/terraform-provider-google-beta/tarball/v3.13.0 | https://github.com/terraform-providers/terraform-provider-google-beta/releases/tag/v3.13.0 |
+| 2020-03-23 20:20 | terraform-provider-google-beta | v3.14.0 | https://api.github.com/repos/terraform-providers/terraform-provider-google-beta/tarball/v3.14.0 | https://github.com/terraform-providers/terraform-provider-google-beta/releases/tag/v3.14.0 |
+| 2020-03-30 22:20 | terraform-provider-google-beta | v3.15.0 | https://api.github.com/repos/terraform-providers/terraform-provider-google-beta/tarball/v3.15.0 | https://github.com/terraform-providers/terraform-provider-google-beta/releases/tag/v3.15.0 |
+| 2020-04-06 19:30 | terraform-provider-google-beta | v3.16.0 | https://api.github.com/repos/terraform-providers/terraform-provider-google-beta/tarball/v3.16.0 | https://github.com/terraform-providers/terraform-provider-google-beta/releases/tag/v3.16.0 |

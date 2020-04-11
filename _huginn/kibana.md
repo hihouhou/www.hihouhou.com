@@ -14,3 +14,5 @@
 
 2020-03-04 18:52: new kibana version available : v7.6.1 https://api.github.com/repos/elastic/kibana/tarball/v7.6.1 changelog : https://github.com/elastic/kibana/releases/tag/v7.6.1
 
+| 2020-03-31 18:40 | kibana | v6.8.8 | https://api.github.com/repos/elastic/kibana/tarball/v6.8.8 | https://github.com/elastic/kibana/releases/tag/v6.8.8 |
+| 2020-03-31 18:50 | kibana | v7.6.2 | https://api.github.com/repos/elastic/kibana/tarball/v7.6.2 | https://github.com/elastic/kibana/releases/tag/v7.6.2 |

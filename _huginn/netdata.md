@@ -6,3 +6,5 @@
 
 2020-02-22 00:02: new netdata version available : v1.20.0 https://api.github.com/repos/netdata/netdata/tarball/v1.20.0
 
+| 2020-04-06 05:20 | netdata | v1.21.0 | https://api.github.com/repos/netdata/netdata/tarball/v1.21.0 | https://github.com/netdata/netdata/releases/tag/v1.21.0 |
+| 2020-04-07 00:01 | netdata | v1.21.0 | https://api.github.com/repos/netdata/netdata/tarball/v1.21.0 |

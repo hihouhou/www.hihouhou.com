@@ -16,3 +16,5 @@
 
 2020-03-04 18:52: new logstash version available : v7.6.1 https://api.github.com/repos/elastic/logstash/tarball/v7.6.1 changelog : https://github.com/elastic/logstash/releases/tag/v7.6.1
 
+| 2020-03-31 18:40 | logstash | v6.8.8 | https://api.github.com/repos/elastic/logstash/tarball/v6.8.8 | https://github.com/elastic/logstash/releases/tag/v6.8.8 |
+| 2020-03-31 18:50 | logstash | v7.6.2 | https://api.github.com/repos/elastic/logstash/tarball/v7.6.2 | https://github.com/elastic/logstash/releases/tag/v7.6.2 |

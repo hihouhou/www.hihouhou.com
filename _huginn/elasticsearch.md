@@ -14,3 +14,5 @@
 
 2020-03-04 18:52: new elasticsearch version available : v7.6.1 https://api.github.com/repos/elastic/elasticsearch/tarball/v7.6.1 changelog : https://github.com/elastic/elasticsearch/releases/tag/v7.6.1
 
+| 2020-03-31 18:40 | elasticsearch | v6.8.8 | https://api.github.com/repos/elastic/elasticsearch/tarball/v6.8.8 | https://github.com/elastic/elasticsearch/releases/tag/v6.8.8 |
+| 2020-03-31 18:50 | elasticsearch | v7.6.2 | https://api.github.com/repos/elastic/elasticsearch/tarball/v7.6.2 | https://github.com/elastic/elasticsearch/releases/tag/v7.6.2 |

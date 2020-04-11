@@ -1,0 +1,2 @@
+| 2020-04-11 00:10 | python-telegram-bot | v12.6 | https://api.github.com/repos/python-telegram-bot/python-telegram-bot/tarball/v12.6 | https://github.com/python-telegram-bot/python-telegram-bot/releases/tag/v12.6 |
+| 2020-04-11 10:00 | python-telegram-bot | v12.6.1 | https://api.github.com/repos/python-telegram-bot/python-telegram-bot/tarball/v12.6.1 | https://github.com/python-telegram-bot/python-telegram-bot/releases/tag/v12.6.1 |

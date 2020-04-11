@@ -10,3 +10,5 @@
 
 2020-02-19 23:32: new nomad version available : v0.10.4 https://api.github.com/repos/hashicorp/nomad/tarball/v0.10.4 changelog : https://github.com/hashicorp/nomad/releases/tag/v0.10.4
 
+| 2020-03-25 14:40 | nomad | v0.10.5 | https://api.github.com/repos/hashicorp/nomad/tarball/v0.10.5 | https://github.com/hashicorp/nomad/releases/tag/v0.10.5 |
+| 2020-04-08 18:00 | nomad | v0.11.0 | https://api.github.com/repos/hashicorp/nomad/tarball/v0.11.0 | https://github.com/hashicorp/nomad/releases/tag/v0.11.0 |

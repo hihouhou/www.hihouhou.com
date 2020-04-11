@@ -4,7 +4,13 @@
 
 {% include_relative _huginn/BGPalerter.md %}
 
+{% include_relative _huginn/bitcoin.md %}
+
 {% include_relative _huginn/bitcoincore.md %}
+
+{% include_relative _huginn/brave-browser.md %}
+
+{% include_relative _huginn/consul.md %}
 
 {% include_relative _huginn/consul-k8s.md %}
 
@@ -85,6 +91,8 @@
 {% include_relative _huginn/terraform-provider-vault.md %}
 
 {% include_relative _huginn/thanos.md %}
+
+{% include_relative _huginn/vault.md %}
 
 {% include_relative _huginn/wordpress-seo.md %}
 

@@ -1,0 +1,1 @@
+| 2020-04-04 00:01 | opendistro-elasticsearch | 1.6.0 | https://d3g5vo6xdbdb9a.cloudfront.net/tarball/opendistro-elasticsearch/opendistroforelasticsearch-1.6.0.tar.gz changelog : https://opendistro.github.io/for-elasticsearch-docs/version-history/ |
