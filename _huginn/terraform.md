@@ -13,3 +13,7 @@
 | 2020-03-05 21:42 | terraform | v0.12.22 | https://api.github.com/repos/hashicorp/terraform/tarball/v0.12.22 | https://github.com/hashicorp/terraform/releases/tag/v0.12.22 |
 | 2020-03-05 22:32 | terraform | v0.12.23 | https://api.github.com/repos/hashicorp/terraform/tarball/v0.12.23 | https://github.com/hashicorp/terraform/releases/tag/v0.12.23 |
 | 2020-03-19 16:30 | terraform | v0.12.24 | https://api.github.com/repos/hashicorp/terraform/tarball/v0.12.24 | https://github.com/hashicorp/terraform/releases/tag/v0.12.24 |
+| 2020-05-13 19:10 | terraform | v0.12.25 | [tarball_v0.12.25](https://api.github.com/repos/hashicorp/terraform/tarball/v0.12.25) | [changelog_v0.12.25](https://github.com/hashicorp/terraform/releases/tag/v0.12.25) |
+| 2020-05-27 19:20 | terraform | v0.12.26 | [tarball_v0.12.26](https://api.github.com/repos/hashicorp/terraform/tarball/v0.12.26) | [changelog_v0.12.26](https://github.com/hashicorp/terraform/releases/tag/v0.12.26) |
+| 2020-06-24 22:30 | terraform | v0.12.27 | [tarball_v0.12.27](https://api.github.com/repos/hashicorp/terraform/tarball/v0.12.27) | [changelog_v0.12.27](https://github.com/hashicorp/terraform/releases/tag/v0.12.27) |
+| 2020-06-25 15:50 | terraform | v0.12.28 | [tarball_v0.12.28](https://api.github.com/repos/hashicorp/terraform/tarball/v0.12.28) | [changelog_v0.12.28](https://github.com/hashicorp/terraform/releases/tag/v0.12.28) |

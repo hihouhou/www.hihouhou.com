@@ -7,3 +7,6 @@
 | 2020-02-11 15:52 | prometheus-operator | v0.36.0 | https://api.github.com/repos/coreos/prometheus-operator/tarball/v0.36.0 | https://github.com/coreos/prometheus-operator/releases/tag/v0.36.0 |
 | 2020-03-03 00:22 | prometheus-operator | v0.37.0 | https://api.github.com/repos/coreos/prometheus-operator/tarball/v0.37.0 | https://github.com/coreos/prometheus-operator/releases/tag/v0.37.0 |
 | 2020-03-20 19:50 | prometheus-operator | v0.38.0 | https://api.github.com/repos/coreos/prometheus-operator/tarball/v0.38.0 | https://github.com/coreos/prometheus-operator/releases/tag/v0.38.0 |
+| 2020-04-16 17:00 | prometheus-operator | v0.38.1 | https://api.github.com/repos/coreos/prometheus-operator/tarball/v0.38.1 | https://github.com/coreos/prometheus-operator/releases/tag/v0.38.1 |
+| 2020-05-11 10:50 | prometheus-operator | v0.39.0 | https://api.github.com/repos/coreos/prometheus-operator/tarball/v0.39.0 | https://github.com/coreos/prometheus-operator/releases/tag/v0.39.0 |
+| 2020-06-18 16:00 | prometheus-operator | v0.40.0 | [tarball_v0.40.0](https://api.github.com/repos/coreos/prometheus-operator/tarball/v0.40.0) | [changelog_v0.40.0](https://github.com/coreos/prometheus-operator/releases/tag/v0.40.0) |

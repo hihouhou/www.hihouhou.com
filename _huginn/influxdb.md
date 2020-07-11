@@ -1,0 +1,1 @@
+| 2020-06-26 22:10 | influxdb | v1.8.0 | [tarball_v1.8.0](https://api.github.com/repos/influxdata/influxdb/tarball/v1.8.0) | [changelog_v1.8.0](https://github.com/influxdata/influxdb/releases/tag/v1.8.0) |

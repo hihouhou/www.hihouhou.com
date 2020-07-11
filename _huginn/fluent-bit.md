@@ -20,3 +20,7 @@
 | 2020-03-27 02:50 | fluent-bit | v1.4.0 | https://api.github.com/repos/fluent/fluent-bit/tarball/v1.4.0 | https://github.com/fluent/fluent-bit/releases/tag/v1.4.0 |
 | 2020-03-27 02:50 | fluent-bit | v1.3.11 | https://api.github.com/repos/fluent/fluent-bit/tarball/v1.3.11 | https://github.com/fluent/fluent-bit/releases/tag/v1.3.11 |
 | 2020-03-27 02:50 | fluent-bit | v1.3.10 | https://api.github.com/repos/fluent/fluent-bit/tarball/v1.3.10 | https://github.com/fluent/fluent-bit/releases/tag/v1.3.10 |
+| 2020-05-12 03:40 | fluent-bit | v1.4.2 | https://api.github.com/repos/fluent/fluent-bit/tarball/v1.4.2 | https://github.com/fluent/fluent-bit/releases/tag/v1.4.2 |
+| 2020-05-12 03:50 | fluent-bit | v1.4.4 | https://api.github.com/repos/fluent/fluent-bit/tarball/v1.4.4 | https://github.com/fluent/fluent-bit/releases/tag/v1.4.4 |
+| 2020-05-12 03:50 | fluent-bit | v1.4.3 | https://api.github.com/repos/fluent/fluent-bit/tarball/v1.4.3 | https://github.com/fluent/fluent-bit/releases/tag/v1.4.3 |
+| 2020-05-27 01:40 | fluent-bit | v1.4.5 | [tarball_v1.4.5](https://api.github.com/repos/fluent/fluent-bit/tarball/v1.4.5) | [changelog_v1.4.5](https://github.com/fluent/fluent-bit/releases/tag/v1.4.5) |

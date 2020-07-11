@@ -1,0 +1,1 @@
+| 2020-06-17 13:10 | alertmanager | v0.21.0 | [tarball_v0.21.0](https://api.github.com/repos/prometheus/alertmanager/tarball/v0.21.0) | [changelog_v0.21.0](https://github.com/prometheus/alertmanager/releases/tag/v0.21.0) |

@@ -7,3 +7,6 @@
 | 2020-02-19 00:02 | zookeeper | release-3.6.0-3 | https://api.github.com/repos/apache/zookeeper/tarball/release-3.6.0-3 | https://zookeeper.apache.org/releases.html#releasenotes |
 | 2020-02-26 00:02 | zookeeper | release-3.6.0-4 | https://api.github.com/repos/apache/zookeeper/tarball/release-3.6.0-4 | https://zookeeper.apache.org/releases.html#releasenotes |
 | 2020-03-04 00:03 | zookeeper | release-3.6.0 | https://api.github.com/repos/apache/zookeeper/tarball/release-3.6.0 | https://zookeeper.apache.org/releases.html#releasenotes |
+| 2020-04-13 00:01 | zookeeper | release-3.6.1-0 | https://api.github.com/repos/apache/zookeeper/tarball/release-3.6.1-0 | https://zookeeper.apache.org/releases.html#releasenotes |
+| 2020-04-22 00:00 | zookeeper | release-3.6.1-1 | https://api.github.com/repos/apache/zookeeper/tarball/release-3.6.1-1 | https://zookeeper.apache.org/releases.html#releasenotes |
+| 2020-05-01 00:00 | zookeeper | release-3.6.1 | https://api.github.com/repos/apache/zookeeper/tarball/release-3.6.1 | https://zookeeper.apache.org/releases.html#releasenotes |

@@ -1,0 +1,5 @@
+| 2020-05-20 20:00 | cypress | v4.6.0 | [tarball_v4.6.0](https://api.github.com/repos/cypress-io/cypress/tarball/v4.6.0) | [changelog_v4.6.0](https://github.com/cypress-io/cypress/releases/tag/v4.6.0) |
+| 2020-05-27 02:00 | cypress | v4.7.0 | [tarball_v4.7.0](https://api.github.com/repos/cypress-io/cypress/tarball/v4.7.0) | [changelog_v4.7.0](https://github.com/cypress-io/cypress/releases/tag/v4.7.0) |
+| 2020-06-08 22:40 | cypress | v4.8.0 | [tarball_v4.8.0](https://api.github.com/repos/cypress-io/cypress/tarball/v4.8.0) | [changelog_v4.8.0](https://github.com/cypress-io/cypress/releases/tag/v4.8.0) |
+| 2020-06-23 19:40 | cypress | v4.9.0 | [tarball_v4.9.0](https://api.github.com/repos/cypress-io/cypress/tarball/v4.9.0) | [changelog_v4.9.0](https://github.com/cypress-io/cypress/releases/tag/v4.9.0) |
+| 2020-07-07 20:10 | cypress | v4.10.0 | [tarball_v4.10.0](https://api.github.com/repos/cypress-io/cypress/tarball/v4.10.0) | [changelog_v4.10.0](https://github.com/cypress-io/cypress/releases/tag/v4.10.0) |

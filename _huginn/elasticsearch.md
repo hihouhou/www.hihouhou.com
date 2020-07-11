@@ -16,3 +16,8 @@
 
 | 2020-03-31 18:40 | elasticsearch | v6.8.8 | https://api.github.com/repos/elastic/elasticsearch/tarball/v6.8.8 | https://github.com/elastic/elasticsearch/releases/tag/v6.8.8 |
 | 2020-03-31 18:50 | elasticsearch | v7.6.2 | https://api.github.com/repos/elastic/elasticsearch/tarball/v7.6.2 | https://github.com/elastic/elasticsearch/releases/tag/v7.6.2 |
+| 2020-05-13 16:20 | elasticsearch | v7.7.0 | [tarball_v7.7.0](https://api.github.com/repos/elastic/elasticsearch/tarball/v7.7.0) | [changelog_v7.7.0](https://github.com/elastic/elasticsearch/releases/tag/v7.7.0) |
+| 2020-05-13 17:00 | elasticsearch | v6.8.9 | [tarball_v6.8.9](https://api.github.com/repos/elastic/elasticsearch/tarball/v6.8.9) | [changelog_v6.8.9](https://github.com/elastic/elasticsearch/releases/tag/v6.8.9) |
+| 2020-06-03 16:10 | elasticsearch | v7.7.1 | [tarball_v7.7.1](https://api.github.com/repos/elastic/elasticsearch/tarball/v7.7.1) | [changelog_v7.7.1](https://github.com/elastic/elasticsearch/releases/tag/v7.7.1) |
+| 2020-06-03 16:10 | elasticsearch | v6.8.10 | [tarball_v6.8.10](https://api.github.com/repos/elastic/elasticsearch/tarball/v6.8.10) | [changelog_v6.8.10](https://github.com/elastic/elasticsearch/releases/tag/v6.8.10) |
+| 2020-06-18 15:30 | elasticsearch | v7.8.0 | [tarball_v7.8.0](https://api.github.com/repos/elastic/elasticsearch/tarball/v7.8.0) | [changelog_v7.8.0](https://github.com/elastic/elasticsearch/releases/tag/v7.8.0) |

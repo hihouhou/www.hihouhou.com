@@ -22,3 +22,17 @@
 | 2020-03-23 16:00 | jenkins | jenkins-2.227 | https://api.github.com/repos/jenkinsci/jenkins/tarball/jenkins-2.227 | https://github.com/jenkinsci/jenkins/releases/tag/jenkins-2.227 |
 | 2020-03-30 14:10 | jenkins | jenkins-2.229 | https://api.github.com/repos/jenkinsci/jenkins/tarball/jenkins-2.229 | https://github.com/jenkinsci/jenkins/releases/tag/jenkins-2.229 |
 | 2020-04-06 11:40 | jenkins | jenkins-2.230 | https://api.github.com/repos/jenkinsci/jenkins/tarball/jenkins-2.230 | https://github.com/jenkinsci/jenkins/releases/tag/jenkins-2.230 |
+| 2020-04-14 22:20 | jenkins | jenkins-2.231 | https://api.github.com/repos/jenkinsci/jenkins/tarball/jenkins-2.231 | https://github.com/jenkinsci/jenkins/releases/tag/jenkins-2.231 |
+| 2020-04-18 22:10 | jenkins | jenkins-2.232 | https://api.github.com/repos/jenkinsci/jenkins/tarball/jenkins-2.232 | https://github.com/jenkinsci/jenkins/releases/tag/jenkins-2.232 |
+| 2020-04-20 16:50 | jenkins | jenkins-2.233 | https://api.github.com/repos/jenkinsci/jenkins/tarball/jenkins-2.233 | https://github.com/jenkinsci/jenkins/releases/tag/jenkins-2.233 |
+| 2020-04-27 14:50 | jenkins | jenkins-2.234 | https://api.github.com/repos/jenkinsci/jenkins/tarball/jenkins-2.234 | https://github.com/jenkinsci/jenkins/releases/tag/jenkins-2.234 |
+| 2020-05-04 20:00 | jenkins | jenkins-2.235 | https://api.github.com/repos/jenkinsci/jenkins/tarball/jenkins-2.235 | https://github.com/jenkinsci/jenkins/releases/tag/jenkins-2.235 |
+| 2020-05-11 20:10 | jenkins | jenkins-2.236 | https://api.github.com/repos/jenkinsci/jenkins/tarball/jenkins-2.236 | https://github.com/jenkinsci/jenkins/releases/tag/jenkins-2.236 |
+| 2020-05-18 23:00 | jenkins | jenkins-2.237 | [tarball_jenkins-2.237](https://api.github.com/repos/jenkinsci/jenkins/tarball/jenkins-2.237) | [changelog_jenkins-2.237](https://github.com/jenkinsci/jenkins/releases/tag/jenkins-2.237) |
+| 2020-05-25 16:30 | jenkins | jenkins-2.238 | [tarball_jenkins-2.238](https://api.github.com/repos/jenkinsci/jenkins/tarball/jenkins-2.238) | [changelog_jenkins-2.238](https://github.com/jenkinsci/jenkins/releases/tag/jenkins-2.238) |
+| 2020-06-04 13:30 | jenkins | jenkins-2.239 | [tarball_jenkins-2.239](https://api.github.com/repos/jenkinsci/jenkins/tarball/jenkins-2.239) | [changelog_jenkins-2.239](https://github.com/jenkinsci/jenkins/releases/tag/jenkins-2.239) |
+| 2020-06-16 17:40 | jenkins | jenkins-2.240 | [tarball_jenkins-2.240](https://api.github.com/repos/jenkinsci/jenkins/tarball/jenkins-2.240) | [changelog_jenkins-2.240](https://github.com/jenkinsci/jenkins/releases/tag/jenkins-2.240) |
+| 2020-06-16 17:40 | jenkins | jenkins-2.241 | [tarball_jenkins-2.241](https://api.github.com/repos/jenkinsci/jenkins/tarball/jenkins-2.241) | [changelog_jenkins-2.241](https://github.com/jenkinsci/jenkins/releases/tag/jenkins-2.241) |
+| 2020-06-24 09:40 | jenkins | jenkins-2.242 | [tarball_jenkins-2.242](https://api.github.com/repos/jenkinsci/jenkins/tarball/jenkins-2.242) | [changelog_jenkins-2.242](https://github.com/jenkinsci/jenkins/releases/tag/jenkins-2.242) |
+| 2020-07-04 20:50 | jenkins | jenkins-2.243 | [tarball_jenkins-2.243](https://api.github.com/repos/jenkinsci/jenkins/tarball/jenkins-2.243) | [changelog_jenkins-2.243](https://github.com/jenkinsci/jenkins/releases/tag/jenkins-2.243) |
+| 2020-07-08 18:20 | jenkins | jenkins-2.244 | [tarball_jenkins-2.244](https://api.github.com/repos/jenkinsci/jenkins/tarball/jenkins-2.244) | [changelog_jenkins-2.244](https://github.com/jenkinsci/jenkins/releases/tag/jenkins-2.244) |

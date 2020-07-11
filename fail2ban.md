@@ -5,4 +5,4 @@ permalink: /Fail2ban/
 ---
 
 
-{% include_relative _fail2ban/banned.md %}
+{% include_relative _fail2ban/all.md %}
